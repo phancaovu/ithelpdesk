@@ -1,0 +1,120 @@
+.container1 {
+    background-color:#4B9CD3     ;
+    margin: 0px auto;
+}
+.pagehome{
+    margin-top: 100px;
+    padding-bottom: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bodervideo{
+    border-radius: 15px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(157, 181, 202);
+}
+.footer1{
+    background-color: #4B9CD3;
+}
+.nav1{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    font-weight: bold;
+    font-size: 19px;
+    color: white;
+
+}
+.footercontainer{
+    padding-top: 30px;
+    padding-bottom: 30px ;
+}
+.ftheader{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.ftbody{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+}
+.spaceh{
+    padding: 5px 0 5px 0;
+}
+.spacew{
+    padding: 0 10px 0 0px;
+}
+.text-boder{
+    background-color: #007FFF;
+    border-radius: 28px;
+    padding: 5px 15px 5px 15px;
+}
+.fsize{
+    font-family:'Courier New', Courier, monospace;
+}
+.vechungtoi{
+    display: flex;
+    padding-top: 50px ;
+    padding-bottom: 50px;
+    justify-content: center;
+    align-items: start;
+}
+.poem1{
+
+    color: rgb(4, 41, 110);
+    font-size: 18px;
+    line-height: 1.6;
+
+}
+.spacewidth{
+    padding: 0 50px 0 0;
+}
+.spacehight{
+    padding: 50px 0 0 0;
+}
+         
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #0077ff 0%, #1f699e  51%, #3768ee  100%);
+    margin: 10px;
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 28px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+           
+  .btn_grad1 {
+    background-image: linear-gradient(to right, #00c6ff 0%, #0072ff  51%, #00c6ff  100%);
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    display: block;
+  }
+
+  .btn_grad1:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ .navtext{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+ }
